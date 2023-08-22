@@ -1,0 +1,9 @@
+x = 52.50;
+z = 3;
+
+res = x * z;
+
+print res;
+print 15.0 / 2;
+print 1+2;
+print -100 * -2;
